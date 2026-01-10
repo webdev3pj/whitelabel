@@ -13,6 +13,7 @@ app_color = "grey"
 app_email = "maheshwaribhavesh95863@gmail.com"
 app_license = "MIT"
 app_logo_url = '/assets/whitelabel/images/whitelabel_logo.jpg'
+app_logo = "whitelabel.get_logo"
 
 # Includes in <head>
 # ------------------
